@@ -1,5 +1,6 @@
 0 ------------------>>> Commands:
 
+```
 <body> </body> = all the that into this it will "configurate the page´s body".
   <body style = "background-color:green;"> </body> = for the background
   .....
@@ -32,6 +33,7 @@
 
 <embed src="music_to_reelax.mp3" autoplay="" loop="" width="430" height="220" style="float:left"> = put a music.
 
+```
 
 1 ------------------->>> creat a simple html page in chrome:
 
