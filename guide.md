@@ -87,6 +87,12 @@ archive.html:
 
 3 ------------------->>> create a reference:
 
+```
+<a href=https://www.taringa.net/+info/guia-completa-de-archivos-batch-parte-1_139ogq> Referencia o pagina de donde saco esto.</a>
+```
+
+output:
+
 <a href=https://www.taringa.net/+info/guia-completa-de-archivos-batch-parte-1_139ogq> Referencia o pagina de donde saco esto.</a>
 
 4 ------------------->>>
